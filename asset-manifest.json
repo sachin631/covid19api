@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/covid19api/static/css/main.c8b185b3.css",
+    "main.js": "/covid19api/static/js/main.c6e27471.js",
+    "index.html": "/covid19api/index.html",
+    "main.c8b185b3.css.map": "/covid19api/static/css/main.c8b185b3.css.map",
+    "main.c6e27471.js.map": "/covid19api/static/js/main.c6e27471.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8b185b3.css",
+    "static/js/main.c6e27471.js"
+  ]
+}
